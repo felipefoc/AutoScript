@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>ability_0072_Q1.jpg</file>
+    <file>gyeong-nam-cho-.jpg</file>
+  </qresource>
+</RCC>
